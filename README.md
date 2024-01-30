@@ -30,4 +30,3 @@ Material UI is used as our main style library, utilising the default MUI theme.
 
 React Icons is used for a handful of icons throughout the application.
 - [React Icons](https://react-icons.github.io/react-icons/)
-# Datacom-Internship
